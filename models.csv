@@ -1,0 +1,17 @@
+name,download_url,author,dataset,source_url,resolution,license
+LSUN Bedrooms,https://drive.google.com/uc?id=1MOSKeGF0FJcivpBI7s63V9YHloUTORiF,karras,"lsun bedrooms
+",https://github.com/NVlabs/stylegan,256x256,https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
+LSUN Cars,https://drive.google.com/uc?id=1MJ6iCfNtMIRicihwRorsM3b7mmtmK9c3,karras,LSUN cars,https://github.com/NVlabs/stylegan,512x384,https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
+LSUN Cats,https://drive.google.com/uc?id=1MQywl0FNt6lHu8E_EUqnRbviagS7fbiJ,karras,LSUN cats,https://github.com/NVlabs/stylegan,256x256,https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
+CelebA HQ Faces,https://drive.google.com/uc?id=1MGqJl28pN4t7SAtSrPdSRJSQJqahkzUf,karras,CelebAHQ,https://github.com/NVlabs/stylegan,1024x1024,https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
+FFHQ Faces,https://drive.google.com/uc?id=1MEGjdvVpUsu1jB4zrXZN7Y4kBBOzizDQ,karras,FFHQ,https://github.com/NVlabs/stylegan,1024x1024,https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
+Pokemon,https://www.dropbox.com/s/a7oiegcixl7mye7/pokemon.pkl?dl=0,Michael Friesen,Unknown,https://twitter.com/MichaelFriese10/status/1127614400750346240,,Unknown
+"Danbooru Anime Faces
+",https://mega.nz/#!vawjXISI!F7s13yRicxDA3QYqYDL2kjnc2K7Zk3DwCIYETREmBP4,gwern,Danbooru2017,https://www.gwern.net/Faces#models,512x512,Unknown
+"Danbooru Anime Portraits
+",https://mega.nz/#!CRtiDI7S!xo4zm3n7pkq1Lsfmuio1O8QPpUwHrtFTHjNJ8_XxSJs,gwern,Danbooru2017,https://www.gwern.net/Faces#portrait-results,512x512,Unknown
+WikiArt Faces,https://drive.google.com/uc?id=1cJQtMeTy_QldOP7n64F8stCDXY6Esup9,,WikiArt,https://github.com/ak9250/stylegan-art,,https://github.com/ak9250/stylegan-art/blob/master/LICENSE.txt
+Abstract Photos,https://mega.nz/#!vCQyHQZT!zdeOg3VvT4922Z2UfxO51xgAfJD-NAK2nW7H_jMlilU,Michael Friesen,1-2-3 Abstract Photography Flickr Group,https://twitter.com/MichaelFriese10/status/1151683347065610240,512x512,Unknown
+Vases,https://thisvesseldoesnotexist.s3-us-west-2.amazonaws.com/public/network-snapshot-008980.pkl,Derek Philip Au,"Museum photos
+",https://thisvesseldoesnotexist.com/#/,1024x1024,Unknown
+Fireworks,https://mega.nz/#!7uBHnACY!quIW-pjdDa7NqnZOYh1z5UemWwPOW6HkYSoJ4usCg9U,Jonathan Fly,Unknown,https://twitter.com/jonathanfly/status/1148000690586959872,,Unknown

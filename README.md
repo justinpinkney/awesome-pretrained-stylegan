@@ -1,18 +1,31 @@
 # Awesome Pretrained StyleGAN
 
+### Table of Contents
+
+
+- [LSUN Bedrooms](#LSUN-Bedrooms)
+- [LSUN Cars](#LSUN-Cars)
+- [LSUN Cats](#LSUN-Cats)
+- [CelebA HQ Faces](#CelebA-HQ-Faces)
+- [FFHQ Faces](#FFHQ-Faces)
+- [Pokemon](#Pokemon)
+- [Danbooru Anime Faces](#Danbooru-Anime-Faces)
+- [Danbooru Anime Portraits](#Danbooru-Anime-Portraits)
+- [WikiArt Faces](#WikiArt-Faces)
+- [Abstract Photos](#Abstract-Photos)
+- [Vases](#Vases)
+- [Fireworks](#Fireworks)
 
 
 ## LSUN Bedrooms
 
 ![](images/LSUN%20Bedrooms.jpg)
 - Dataset: lsun bedrooms
-
 - Resolution: 256x256
 - Author: karras
 - [Download link](https://drive.google.com/uc?id=1MOSKeGF0FJcivpBI7s63V9YHloUTORiF)
 - Licence: https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
 - [Source](https://github.com/NVlabs/stylegan)
-
 
 
 ## LSUN Cars
@@ -26,7 +39,6 @@
 - [Source](https://github.com/NVlabs/stylegan)
 
 
-
 ## LSUN Cats
 
 ![](images/LSUN%20Cats.jpg)
@@ -36,7 +48,6 @@
 - [Download link](https://drive.google.com/uc?id=1MQywl0FNt6lHu8E_EUqnRbviagS7fbiJ)
 - Licence: https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
 - [Source](https://github.com/NVlabs/stylegan)
-
 
 
 ## CelebA HQ Faces
@@ -50,7 +61,6 @@
 - [Source](https://github.com/NVlabs/stylegan)
 
 
-
 ## FFHQ Faces
 
 ![](images/FFHQ%20Faces.jpg)
@@ -60,7 +70,6 @@
 - [Download link](https://drive.google.com/uc?id=1MEGjdvVpUsu1jB4zrXZN7Y4kBBOzizDQ)
 - Licence: https://github.com/NVlabs/stylegan/blob/master/LICENSE.txt
 - [Source](https://github.com/NVlabs/stylegan)
-
 
 
 ## Pokemon
@@ -74,12 +83,9 @@
 - [Source](https://twitter.com/MichaelFriese10/status/1127614400750346240)
 
 
-
 ## Danbooru Anime Faces
 
-
-![](images/Danbooru%20Anime%20Faces
-.jpg)
+![](images/Danbooru%20Anime%20Faces.jpg)
 - Dataset: Danbooru2017
 - Resolution: 512x512
 - Author: gwern
@@ -88,19 +94,15 @@
 - [Source](https://www.gwern.net/Faces#models)
 
 
-
 ## Danbooru Anime Portraits
 
-
-![](images/Danbooru%20Anime%20Portraits
-.jpg)
+![](images/Danbooru%20Anime%20Portraits.jpg)
 - Dataset: Danbooru2017
 - Resolution: 512x512
 - Author: gwern
 - [Download link](https://mega.nz/#!CRtiDI7S!xo4zm3n7pkq1Lsfmuio1O8QPpUwHrtFTHjNJ8_XxSJs)
 - Licence: Unknown
 - [Source](https://www.gwern.net/Faces#portrait-results)
-
 
 
 ## WikiArt Faces
@@ -114,7 +116,6 @@
 - [Source](https://github.com/ak9250/stylegan-art)
 
 
-
 ## Abstract Photos
 
 ![](images/Abstract%20Photos.jpg)
@@ -126,18 +127,15 @@
 - [Source](https://twitter.com/MichaelFriese10/status/1151683347065610240)
 
 
-
 ## Vases
 
 ![](images/Vases.jpg)
 - Dataset: Museum photos
-
 - Resolution: 1024x1024
 - Author: Derek Philip Au
 - [Download link](https://thisvesseldoesnotexist.s3-us-west-2.amazonaws.com/public/network-snapshot-008980.pkl)
 - Licence: Unknown
 - [Source](https://thisvesseldoesnotexist.com/#/)
-
 
 
 ## Fireworks

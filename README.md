@@ -5,7 +5,6 @@
 ## LSUN Bedrooms
 
 ![](images/LSUN%20Bedrooms.jpg)
-
 - Dataset: lsun bedrooms
 
 - Resolution: 256x256
@@ -19,7 +18,6 @@
 ## LSUN Cars
 
 ![](images/LSUN%20Cars.jpg)
-
 - Dataset: LSUN cars
 - Resolution: 512x384
 - Author: karras
@@ -32,7 +30,6 @@
 ## LSUN Cats
 
 ![](images/LSUN%20Cats.jpg)
-
 - Dataset: LSUN cats
 - Resolution: 256x256
 - Author: karras
@@ -45,7 +42,6 @@
 ## CelebA HQ Faces
 
 ![](images/CelebA%20HQ%20Faces.jpg)
-
 - Dataset: CelebAHQ
 - Resolution: 1024x1024
 - Author: karras
@@ -58,7 +54,6 @@
 ## FFHQ Faces
 
 ![](images/FFHQ%20Faces.jpg)
-
 - Dataset: FFHQ
 - Resolution: 1024x1024
 - Author: karras
@@ -71,11 +66,10 @@
 ## Pokemon
 
 ![](images/Pokemon.jpg)
-
 - Dataset: Unknown
 - Resolution: 
 - Author: Michael Friesen
-- [Download link](https://www.dropbox.com/s/a7oiegcixl7mye7/pokemon.pkl?dl=0)
+- [Download link](https://www.dropbox.com/s/a7oiegcixl7mye7/pokemon.pkl?dl=1)
 - Licence: Unknown
 - [Source](https://twitter.com/MichaelFriese10/status/1127614400750346240)
 
@@ -86,7 +80,6 @@
 
 ![](images/Danbooru%20Anime%20Faces
 .jpg)
-
 - Dataset: Danbooru2017
 - Resolution: 512x512
 - Author: gwern
@@ -101,7 +94,6 @@
 
 ![](images/Danbooru%20Anime%20Portraits
 .jpg)
-
 - Dataset: Danbooru2017
 - Resolution: 512x512
 - Author: gwern
@@ -114,10 +106,9 @@
 ## WikiArt Faces
 
 ![](images/WikiArt%20Faces.jpg)
-
 - Dataset: WikiArt
 - Resolution: 
-- Author: 
+- Author: ak9250
 - [Download link](https://drive.google.com/uc?id=1cJQtMeTy_QldOP7n64F8stCDXY6Esup9)
 - Licence: https://github.com/ak9250/stylegan-art/blob/master/LICENSE.txt
 - [Source](https://github.com/ak9250/stylegan-art)
@@ -127,7 +118,6 @@
 ## Abstract Photos
 
 ![](images/Abstract%20Photos.jpg)
-
 - Dataset: 1-2-3 Abstract Photography Flickr Group
 - Resolution: 512x512
 - Author: Michael Friesen
@@ -140,7 +130,6 @@
 ## Vases
 
 ![](images/Vases.jpg)
-
 - Dataset: Museum photos
 
 - Resolution: 1024x1024
@@ -154,7 +143,6 @@
 ## Fireworks
 
 ![](images/Fireworks.jpg)
-
 - Dataset: Unknown
 - Resolution: 
 - Author: Jonathan Fly

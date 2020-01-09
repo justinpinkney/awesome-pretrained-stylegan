@@ -1,5 +1,12 @@
 # Awesome Pretrained StyleGAN
 
+A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) models trained on different datasets at different resolution.
+
+{% for model in models %}
+[![](images/thumbs/{{ model.name | replace(" ", "%20") }}.jpg)](#{{ model.name | replace(" ", "-")}}){% endfor %}
+
+If you have a publically accessible model which you know of, or would like to share please see the [contributing](#contributing) section.
+
 ### Table of Contents
 
 {% for model in models %}
@@ -11,10 +18,13 @@
 ![](images/{{ model.name | replace(" ", "%20")}}.jpg)
 - Dataset: {{ model.dataset }}
 - Resolution: {{ model.resolution }}
-- Author: {{ model.author }}
+- Author: [{{ model.author }}]({{ model.author_url }})
 - [Download link]({{ model.download_url }})
 - Licence: {{ model.license }}
 - [Source]({{ model.source_url }})
 
 {% endfor %}
 
+## Contributing
+
+This readme is automatically generated using Jinja, please do not try and edit it directly. Information about the models is stored in `models.csv` please add your model to this file. Preview images are generated automatically and the process is used to test the link so please only edit the csv file.

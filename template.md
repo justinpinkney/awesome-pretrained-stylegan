@@ -9,8 +9,10 @@ If you have a publically accessible model which you know of, or would like to sh
 
 ### Table of Contents
 
+- Models
 {% for model in models %}
-- [{{ model.name }}](#{{ model.name | replace(" ", "-")}}){% endfor %}
+    - [{{ model.name }}](#{{ model.name | replace(" ", "-")}}){% endfor %}
+- [Contributing](#contributing)
 
 {% for model in models %}
 ## {{ model.name }}
@@ -20,6 +22,7 @@ If you have a publically accessible model which you know of, or would like to sh
 - Resolution: {{ model.resolution }}
 - Author: [{{ model.author }}]({{ model.author_url }})
 - [Download link]({{ model.download_url }})
+- StyleGAN implementation: {{ model.implementation }}
 - Licence: {{ model.license }}
 - [Source]({{ model.source_url }})
 

@@ -18,7 +18,7 @@ A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) model
 [![](images/thumbs/Ukiyo-e%20Faces.jpg)](#Ukiyo-e-Faces)
 [![](images/thumbs/Butterflies.jpg)](#Butterflies)
 
-If you have a publically accessible model which you know of, or would like to share please see the [contributing](#contributing) section.
+If you have a publically accessible model which you know of, or would like to share please see the [contributing](#contributing) section. _Hint: the simplest way to submit a model is to fill in this [form](https://forms.gle/rUU9kJf2YaAUhSJ66)._
 
 ### Table of Contents
 
@@ -211,5 +211,7 @@ If you have a publically accessible model which you know of, or would like to sh
 
 
 ## Contributing
+
+__TLDR: You can either edit the [models.csv](models.csv) file or fill out this [form](https://forms.gle/rUU9kJf2YaAUhSJ66).__
 
 This readme is automatically generated using Jinja, please do not try and edit it directly. Information about the models is stored in `models.csv` please add your model to this file. Preview images are generated automatically and the process is used to test the link so please only edit the csv file.

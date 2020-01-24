@@ -105,7 +105,7 @@ If you have a publically accessible model which you know of, or would like to sh
 
 ![](images/Pokemon.jpg)
 - Dataset: Unknown
-- Resolution: 
+- Resolution: 256x256
 - Author: [Michael Friesen](https://twitter.com/michaelfriese10)
 - [Download link](https://www.dropbox.com/s/a7oiegcixl7mye7/pokemon.pkl?dl=1)
 - StyleGAN implementation:  https://github.com/NVlabs/stylegan
@@ -141,7 +141,7 @@ If you have a publically accessible model which you know of, or would like to sh
 
 ![](images/WikiArt%20Faces.jpg)
 - Dataset: WikiArt
-- Resolution: 
+- Resolution: 512x512
 - Author: [ak9250](https://github.com/ak9250)
 - [Download link](https://drive.google.com/uc?id=1cJQtMeTy_QldOP7n64F8stCDXY6Esup9)
 - StyleGAN implementation:  https://github.com/NVlabs/stylegan
@@ -177,7 +177,7 @@ If you have a publically accessible model which you know of, or would like to sh
 
 ![](images/Fireworks.jpg)
 - Dataset: Unknown
-- Resolution: 
+- Resolution: 512x512
 - Author: [Jonathan Fly](https://twitter.com/jonathanfly)
 - [Download link](https://mega.nz/#!7uBHnACY!quIW-pjdDa7NqnZOYh1z5UemWwPOW6HkYSoJ4usCg9U)
 - StyleGAN implementation:  https://github.com/NVlabs/stylegan
@@ -215,4 +215,3 @@ If you have a publically accessible model which you know of, or would like to sh
 __TLDR: You can either edit the [models.csv](models.csv) file or fill out this [form](https://forms.gle/rUU9kJf2YaAUhSJ66).__
 
 This readme is automatically generated using Jinja, please do not try and edit it directly. Information about the models is stored in `models.csv` please add your model to this file. Preview images are generated automatically and the process is used to test the link so please only edit the csv file.
-

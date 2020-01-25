@@ -17,6 +17,7 @@ A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) model
 [![](images/thumbs/Fireworks.jpg)](#Fireworks)
 [![](images/thumbs/Ukiyo-e%20Faces.jpg)](#Ukiyo-e-Faces)
 [![](images/thumbs/Butterflies.jpg)](#Butterflies)
+[![](images/thumbs/Escher.jpg)](#Escher)
 
 If you have a publically accessible model which you know of, or would like to share please see the [contributing](#contributing) section. _Hint: the simplest way to submit a model is to fill in this [form](https://forms.gle/rUU9kJf2YaAUhSJ66)._
 
@@ -38,6 +39,7 @@ If you have a publically accessible model which you know of, or would like to sh
     - [Fireworks](#Fireworks)
     - [Ukiyo-e Faces](#Ukiyo-e-Faces)
     - [Butterflies](#Butterflies)
+    - [Escher](#Escher)
 - [Contributing](#contributing)
 
 
@@ -207,6 +209,18 @@ If you have a publically accessible model which you know of, or would like to sh
 - StyleGAN implementation:  https://github.com/marian42/style-based-gan-pytorch
 - Licence: Unkown
 - [Source](https://marian42.de/article/butterflies/)
+
+
+## Escher
+
+![](images/Escher.jpg)
+- Dataset: Unknown
+- Resolution: 1024x1024
+- Author: [Michael Friesen](https://twitter.com/MichaelFriese10)
+- [Download link](https://mega.nz/#!iSZH1KAJ!2bZvb_rNd7mkPt3tdBP-8_sEw-6uolhja4J2SzLytZU)
+- StyleGAN implementation:  https://github.com/NVlabs/stylegan
+- Licence: Unknown
+- [Source](https://twitter.com/MichaelFriese10/status/1220480910455234561)
 
 
 

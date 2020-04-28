@@ -2,6 +2,8 @@
 
 A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) models trained on different datasets at different resolution.
 
+_For the equivalent collection for StyleGAN 2, see [this repo](https://github.com/justinpinkney/awesome-pretrained-stylegan2)_
+
 
 [![](images/thumbs/LSUN%20Bedrooms.jpg)](#LSUN-Bedrooms)
 [![](images/thumbs/LSUN%20Cars.jpg)](#LSUN-Cars)

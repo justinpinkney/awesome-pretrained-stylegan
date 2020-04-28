@@ -2,6 +2,8 @@
 
 A collection of pre-trained [StyleGAN](https://github.com/NVlabs/stylegan) models trained on different datasets at different resolution.
 
+_For the equivalent collection for StyleGAN 2, see [this repo](https://github.com/justinpinkney/awesome-pretrained-stylegan2)_
+
 {% for model in models %}
 [![](images/thumbs/{{ model.name | replace(" ", "%20") }}.jpg)](#{{ model.name | replace(" ", "-")}}){% endfor %}
 
